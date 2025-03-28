@@ -9,3 +9,6 @@
 
 ## API
 ・OpenAI API
+
+## 画面遷移図、ER図
+![image](https://github.com/user-attachments/assets/a456a6f5-cec8-4c9b-8099-55d337100460)
